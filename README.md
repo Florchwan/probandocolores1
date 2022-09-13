@@ -10,7 +10,13 @@ La retrospectiva de la estrella de mar nos ayuda a entender mejor qué salió ma
 
 * Coordinar al menos dos juntadas por semana, o mantener la comunicación mas activa.
 
+# :star: Sprint III
 
+## 1. Comenzar a hacer (Start doing)
+
+* Dividir tareas a realizar para optimizar los tiempos.
+
+* Coordinar al menos dos juntadas por semana, o mantener la comunicación mas activa.
 
 	:star:
   
