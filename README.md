@@ -2,7 +2,7 @@
 
 
 
-## Introducción
+##  :musical_note: Introducción 
 Nuestro sitio ofrece la compra de vinilos y cds. Este apunta a un público de 20 años en adelante, coleccionistas y consumidores que prefieran el formato físico.
 
 
