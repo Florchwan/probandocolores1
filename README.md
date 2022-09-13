@@ -1,8 +1,10 @@
 # :star: Prueba de Colores :star:
+Blablablablabla
+blablabla
 
+#  :musical_note: Sprint II
 
-
-##  :musical_note: Introducción 
+##  :musical_note: Introduccion
 Nuestro sitio ofrece la compra de vinilos y cds. Este apunta a un público de 20 años en adelante, coleccionistas y consumidores que prefieran el formato físico.
 
 
