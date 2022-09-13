@@ -1,18 +1,15 @@
-# Prueba de Colores 
-Blablablablabla
-blablabla
+# Starfish Retrospective (Retrospectiva de estrella de mar) 
+La retrospectiva de la estrella de mar nos ayuda a entender mejor qué salió mal en el equipo y cómo podemos mejorar para el futuro. En este aspecto, tuvimos en cuenta nuestros errores y aciertos, y llegamos a un acuerdo para solventar lo que no pudimos implementar en el sprint anterior.
 
 # :star: Sprint II
 
-##  :musical_note: Introduccion
-Nuestro sitio ofrece la compra de vinilos y cds. Este apunta a un público de 20 años en adelante, coleccionistas y consumidores que prefieran el formato físico.
+## 1. Comenzar a hacer (Start doing)
+
+* Dividir tareas a realizar para optimizar los tiempos.
+
+* Coordinar al menos dos juntadas por semana, o mantener la comunicación mas activa.
 
 
-## Integrantes
-
-* **COLORES**: (Buenos Aires).
-
-* **colores**: (CABA). 
 
 	:star:
   
